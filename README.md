@@ -1,2 +1,2 @@
 # MedicalManagementSystem
-A Java based application for transactions in a medical store 
+A Java based application for handling transactions in a medical store 
